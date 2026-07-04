@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, sans-serif,
+    margin = 30px;
+}
+h1{
+    color: Black;
+}
+p{
+    font-size: 16;
+}
+section{
+    background-color: aliceblue;
+    padding: 15px;
+}
